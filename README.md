@@ -5,3 +5,4 @@ Roadmap:<br>
     4.SlashQuotes<br>
     5.VarSubstitution<br>
     6.TemplateStrings<br>
+    7.toFixed<br>

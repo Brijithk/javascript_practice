@@ -6,3 +6,4 @@ Roadmap:<br>
     5.VarSubstitution<br>
     6.TemplateStrings<br>
     7.toFixed<br>
+    8.Map<br>

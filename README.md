@@ -8,3 +8,4 @@ Roadmap:<br>
     7.toFixed<br>
     8.Map<br>
     9.hoisting<br>
+    10.useStrict<br>
